@@ -46,4 +46,13 @@ isWinner:
         result = true
         print horseNum is the winner
     return result
+
+
+
+
+
+
+
+    ## Note to self.
+    forgot to define constant variables, return correctly, 
         
