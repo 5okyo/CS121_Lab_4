@@ -53,6 +53,6 @@ isWinner:
 
 
 
-    ## Note to self.
+    Note to self.
     forgot to define constant variables, return correctly, 
         
